@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\coding\\BIM_Automation_Developer_ITI\\day03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81CB4556-28DF-476A-9917-6E6945A7DD96}|day03.csproj|d:\\coding\\bim_automation_developer_iti\\day03\\day03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81CB4556-28DF-476A-9917-6E6945A7DD96}|day03.csproj|solutionrelative:day03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "day03.cs",
+              "DocumentMoniker": "D:\\coding\\BIM_Automation_Developer_ITI\\day03\\day03.cs",
+              "RelativeDocumentMoniker": "day03.cs",
+              "ToolTip": "D:\\coding\\BIM_Automation_Developer_ITI\\day03\\day03.cs*",
+              "RelativeToolTip": "day03.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:36:45.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

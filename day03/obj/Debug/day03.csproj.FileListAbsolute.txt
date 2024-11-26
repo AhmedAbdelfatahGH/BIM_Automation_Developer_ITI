@@ -1,0 +1,14 @@
+D:\coding\BIM_Automation_Developer_ITI\day03\day03\obj\Debug\day03.csproj.AssemblyReference.cache
+D:\coding\BIM_Automation_Developer_ITI\day03\day03\obj\Debug\day03.csproj.CoreCompileInputs.cache
+D:\coding\BIM_Automation_Developer_ITI\day03\day03\bin\Debug\day03.exe.config
+D:\coding\BIM_Automation_Developer_ITI\day03\day03\bin\Debug\day03.exe
+D:\coding\BIM_Automation_Developer_ITI\day03\day03\bin\Debug\day03.pdb
+D:\coding\BIM_Automation_Developer_ITI\day03\day03\obj\Debug\day03.exe
+D:\coding\BIM_Automation_Developer_ITI\day03\day03\obj\Debug\day03.pdb
+D:\coding\BIM_Automation_Developer_ITI\day03\obj\Debug\day03.csproj.AssemblyReference.cache
+D:\coding\BIM_Automation_Developer_ITI\day03\obj\Debug\day03.csproj.CoreCompileInputs.cache
+D:\coding\BIM_Automation_Developer_ITI\day03\obj\Debug\day03.exe
+D:\coding\BIM_Automation_Developer_ITI\day03\obj\Debug\day03.pdb
+D:\coding\BIM_Automation_Developer_ITI\day03\bin\Debug\day03.exe.config
+D:\coding\BIM_Automation_Developer_ITI\day03\bin\Debug\day03.exe
+D:\coding\BIM_Automation_Developer_ITI\day03\bin\Debug\day03.pdb
