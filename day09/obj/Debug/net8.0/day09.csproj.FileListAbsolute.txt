@@ -1,0 +1,15 @@
+D:\coding\BIM_Automation_Developer_ITI\day09\day09\bin\Debug\net8.0\day09.exe
+D:\coding\BIM_Automation_Developer_ITI\day09\day09\bin\Debug\net8.0\day09.deps.json
+D:\coding\BIM_Automation_Developer_ITI\day09\day09\bin\Debug\net8.0\day09.runtimeconfig.json
+D:\coding\BIM_Automation_Developer_ITI\day09\day09\bin\Debug\net8.0\day09.dll
+D:\coding\BIM_Automation_Developer_ITI\day09\day09\bin\Debug\net8.0\day09.pdb
+D:\coding\BIM_Automation_Developer_ITI\day09\day09\obj\Debug\net8.0\day09.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\BIM_Automation_Developer_ITI\day09\day09\obj\Debug\net8.0\day09.AssemblyInfoInputs.cache
+D:\coding\BIM_Automation_Developer_ITI\day09\day09\obj\Debug\net8.0\day09.AssemblyInfo.cs
+D:\coding\BIM_Automation_Developer_ITI\day09\day09\obj\Debug\net8.0\day09.csproj.CoreCompileInputs.cache
+D:\coding\BIM_Automation_Developer_ITI\day09\day09\obj\Debug\net8.0\day09.sourcelink.json
+D:\coding\BIM_Automation_Developer_ITI\day09\day09\obj\Debug\net8.0\day09.dll
+D:\coding\BIM_Automation_Developer_ITI\day09\day09\obj\Debug\net8.0\refint\day09.dll
+D:\coding\BIM_Automation_Developer_ITI\day09\day09\obj\Debug\net8.0\day09.pdb
+D:\coding\BIM_Automation_Developer_ITI\day09\day09\obj\Debug\net8.0\day09.genruntimeconfig.cache
+D:\coding\BIM_Automation_Developer_ITI\day09\day09\obj\Debug\net8.0\ref\day09.dll
